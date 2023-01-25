@@ -3,14 +3,19 @@ My first to store and write
 I will write on bioinformatics from 23rd jan to 27th jan 2023
 
 # Day 1
-Installation of tools
+1. Installation of tools
+2. Introduction to shell
+Reading materials
+
 
 1. git bash
 1. R studio
 
 # Day 2
-**Introduction to command lines**
-
+**Introduction to commandlines**
+Introduction to shell
+-What is a command shell and why can i use one?
+Nevigating files and directories
 1. cd-change directory
 2. pwd-to know the location where u are
 3. mkdir- create a file 
