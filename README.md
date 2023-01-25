@@ -13,9 +13,10 @@ Reading materials
 
 # Day 2
 **Introduction to commandlines**
-Introduction to shell
+*Introduction to shell*
 -What is a command shell and why can i use one?
-Nevigating files and directories
+*Nevigating files and directories*
+
 1. cd-change directory
 2. pwd-to know the location where u are
 3. mkdir- create a file 
