@@ -1,4 +1,4 @@
-# MYFIRST
+# BIOINFORMSTICS-WORKSHOP
 My first to store and write
 I will write on bioinformatics from 23rd jan to 27th jan 2023
 
@@ -28,5 +28,6 @@ Reading materials
 9. rm- removing some documents from the file
 10. cp- copping files from one document to the other
 # Day 3
-**Gitub**
+**Github**
+
 
