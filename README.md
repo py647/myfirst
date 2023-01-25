@@ -1,15 +1,15 @@
-** myfirst**
-my first to store and write
-i will write on bioinformatics from 23rd jan to 27th jan 2023
+# MYFIRST
+My first to store and write
+I will write on bioinformatics from 23rd jan to 27th jan 2023
 
-**day 1**
-installation of tools
+# Day 1
+Installation of tools
 
 1. git bash
 1. R studio
 
-# day 2**
-**introduction to command lines**
+# Day 2
+**Introduction to command lines**
 
 1. cd-change directory
 2. pwd-to know the location where u are
