@@ -21,4 +21,6 @@ Installation of tools
 8. mv- moving documents from one folder to the other
 9. rm- removing some documents from the file
 10. cp- copping files from one document to the other
-**
+# Day 3
+**Gitub**
+1.
